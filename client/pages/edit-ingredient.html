@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build your Pizza!</title>
+
+    <link rel="stylesheet" href="../styles/style.css" type="text/css">
+    <script defer src="../scripts/edit-ingredient.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<header class="head">
+    <h1>Pizza&nbsp;<i class="fas fa-pizza-slice"></i>&nbsp;Builder</h1>
+    <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a class="active" href="pizzas.html">Pizzas</a>
+        <a href="ingredients.html">Ingredients</a>
+        <a href="customers.html">Customers</a>
+    </nav>
+</header>
+
+<section class="edit">
+    <h1>Add / edit ingredient</h1><br>
+    <form id = "ingredient-form">
+        <!--        <label class="small text-right" for="tk-pizzaID">Pizza ID:</label>-->
+        <!--        <input class="small text-left" type="number" id="tk-pizzaID" name="pizzaID"><br><br>-->
+
+        <label class="small text-right" for="tk-name">Name:    </label>
+        <select class="small text-left" name="name" id="tk-name">
+            <option value="pepperoni">Pepperoni</option>
+            <option value="mushrooms">Mushrooms</option>
+            <option value="Green Pepper">Green pepper</option>
+            <option value="ham">Ham</option>
+            <option value="chicken">Chicken</option>
+            <option value="pineapple">Pineapple</option>
+            <option value="bacon">Bacon</option>
+            <option value="vegetables">Vegetables</option>
+        </select><br><br>
+
+
+        <label class="small text-right" for="tk-kcal">Kcal:   </label>
+        <input class="small text-left" type="number" id="tk-kcal" name="kcal"><br><br>
+
+        <label class="small text-right" for="tk-price">Price:   </label>
+        <input class="small text-left" type="number" id="tk-price" name="price"><br><br>
+
+        <label class="small text-right" for="tk-quantity">Quantity:   </label>
+        <input class="small text-left" type="number" id="tk-quantity" name="quantity"><br><br>
+
+        <button class="btn cancel">Cancel</button> <input class="btn primary" id="submit" type="submit" value="Save">
+    </form>
+    <h2 id="message"></h2>
+</section>
+
+</body>
+</html>
