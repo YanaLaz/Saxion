@@ -1,0 +1,18 @@
+HOUSE,Enschedesestraat 22,7521AB,Enschede,100000
+BATHROOM,5,true,true
+LIVINGROOM,14,1
+BEDROOM,6,false
+HOUSE,Hengelosestraat 91,7204ST,Hengelo,120000
+BATHROOM,2,true,false
+BATHROOM,6,true,true
+LIVINGROOM,25,3
+BEDROOM,20,true
+BEDROOM,7,false
+HOUSE,Adelaarstraat 6a,3606DD,Deventer,150000
+BATHROOM,3,true,false
+BATHROOM,12,true,true
+LIVINGROOM,100,3
+BEDROOM,22,true
+BEDROOM,22,false
+BEDROOM,12,true
+BEDROOM,12,false
