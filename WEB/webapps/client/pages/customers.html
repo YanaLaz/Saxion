@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build your Pizza!</title>
+
+    <link rel="icon" href="../img/favicon.ico" type="image/gif" sizes="16x16">
+    <link rel="stylesheet" href="../styles/style.css" type="text/css">
+    <script defer src="../scripts/customers.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<header class="head">
+    <h1>Pizza&nbsp;<i class="fas fa-pizza-slice"></i>&nbsp;Builder</h1>
+    <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a class="active" href="pizzas.html">Pizzas</a>
+        <a href="customers.html">Customers</a>
+    </nav>
+</header>
+
+<section>
+        <h1 style="text-align: center">All customers</h1><br>
+        <table class="alternating-rows">
+            <thead class="colored">
+            <tr>
+                <th class="small">Name</th>
+                <th class="small">Address</th>
+                <th class="small">Phone number</th>
+                <th class="small">Pizzas</th>
+                <th class="small">Edit / Delete</th>
+            </tr>
+            </thead>
+            <tbody id="customers" class="customers">
+            </tbody>
+        </table>
+    <br><br>
+<!--        <button id="add-project-btn" class="btn right primary"><i class="fas fa-plus"></i>Add new</button>-->
+    <div>
+        <button class="btn add-customer" id="add-customer" style="display:block; margin: 0 auto;"><i class="fa-solid fa-plus"></i>Add new customer</button>
+    </div>
+</section>
+
+</body>
+</html>
