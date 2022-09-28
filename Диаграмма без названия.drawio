@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T13:46:54.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.796 Yowser/2.5 Safari/537.36" version="20.3.0" etag="9kMepAQirfVeaOhdHgGE" type="github"><diagram id="hNysKOBTDog-QBm60d1B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-28T07:07:19.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.114 YaBrowser/22.9.1.1081 Yowser/2.5 Safari/537.36" etag="eqv4hZ0q7OYdp9ObOtUb" version="20.3.0" type="github">
+  <diagram id="hNysKOBTDog-QBm60d1B" name="Страница 1">
+    <mxGraphModel dx="632" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PG872-k7Z-UORDNMIddG-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/originals/3a/44/4c/3a444cc8c1d7c6cf58ed878ffa77defb.jpg;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="693.33" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="PG872-k7Z-UORDNMIddG-3" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Suppliers of materials (nail&amp;nbsp;&lt;/span&gt;polishes, care products, napkins, gloves)&lt;/li&gt;&lt;li&gt;Suppliers of equipment (lamps, chairs, tables, racks, bathtubs)&lt;/li&gt;&lt;li&gt;Advertisers&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PG872-k7Z-UORDNMIddG-4" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Manicure of any complexity;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Children&#39;s manicure;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Removal of gel coatings from&lt;/li&gt;&lt;li style=&quot;&quot;&gt;rails;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Festive and everyday nail design;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Pedicure;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Caring procedures for the skin of hands and nails&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Selling caring products&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Sell products;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Construct a positive environment&amp;nbsp;&lt;/span&gt;not only for us but for clients;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Put our work on social media;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PG872-k7Z-UORDNMIddG-5" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Good location (near the mall,&lt;/li&gt;&lt;li&gt;underground, or at the center of the city);&lt;/li&gt;&lt;li&gt;Utilities;&lt;/li&gt;&lt;li&gt;Business structure;&lt;/li&gt;&lt;li&gt;Salon equipment;&lt;/li&gt;&lt;li&gt;Nail products;&lt;/li&gt;&lt;li&gt;Cosmetology license;&lt;/li&gt;&lt;li&gt;Business and license permit;&lt;/li&gt;&lt;li&gt;Insurance;&lt;/li&gt;&lt;li&gt;Staff members;&lt;/li&gt;&lt;li&gt;Customers;&lt;/li&gt;&lt;li&gt;Money:&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Loan;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;State tax license&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="210" y="432" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PG872-k7Z-UORDNMIddG-6" value="&lt;div&gt;Cost of materials, s&lt;span style=&quot;background-color: initial;&quot;&gt;alaries for employees, a&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dvertisement, u&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tilities, i&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nternet, i&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nsurance, r&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ent.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="170" y="555" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PG872-k7Z-UORDNMIddG-7" value="&lt;div&gt;Manicure, pedicure, care procedures;&lt;/div&gt;&lt;div&gt;Selling care products&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="555" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
